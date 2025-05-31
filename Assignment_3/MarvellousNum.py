@@ -8,4 +8,5 @@ def chkPrime(no1):
             return False
             break
 
-    return True
+    return True    
+    
