@@ -19,6 +19,7 @@ This repository contains a collection of Python assignments, organized by topic 
 - [Assignment 11: Recursion](#assignment-11-recursion)
 - [Assignment 12: Classes and OOP Basics](#assignment-12-classes-and-oop-basics)
 - [Assignment 13: OOP Examples](#assignment-13-oop-examples)
+- [Assignment 14: OOP Inheritance, Overriding, and Access Modifiers](#assignment-14-oop-inheritance-overriding-and-access-modifiers)
 
 ---
 
@@ -110,6 +111,13 @@ This repository contains a collection of Python assignments, organized by topic 
 
 - Real-world OOP examples: BookStore, BankAccount, and Arithmatic classes.
 - [Details and examples &rarr; Assignment_13/README.md](./Assignment_13/README.md)
+
+---
+
+## Assignment 14: Inheritance, Overriding and access-modifiers
+
+- Object-Oriented Programming practice scripts.
+- [Details and examples &rarr; Assignment_14/README.md](./Assignment_14/README.md)
 
 ---
 
